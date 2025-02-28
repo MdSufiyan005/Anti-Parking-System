@@ -126,7 +126,7 @@ We designed an intelligent detection system with the following workflow:
 
 ## 📑 Documentation
 
-The complete project report is available in this repository as [DT_FINAL_REPORT.pdf](Report\DT_FINAL_REPORT.pdf).
+The complete project report is available in this repository as [DT_FINAL_REPORT.pdf](DT_FINAL_REPORT.pdf).
 
 ---
 
